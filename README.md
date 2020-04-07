@@ -13,7 +13,7 @@ The daily statistics are often updated even for historical data, so I go back an
 - Recovered  
 
 ---  
-UPDATES:
+UPDATES:  
 March 15 - April 5, 2020
 Up to April 5, reporting was only New Positive tests, Daily Negative tests. Recovered, Current Hospitalized, Current ICU and total deaths were extracted from textual reports.
 
