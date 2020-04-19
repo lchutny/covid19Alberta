@@ -31,4 +31,8 @@ Is a resident in a continuing care home or similar facility
 Has returned from travelling abroad between March 8 and March 12 (before the self-isolation protocols were in place)
 Is a health-care worker with respiratory symptoms. “We expanded Alberta’s testing criteria [Monday] and expect testing numbers will rise back to maximum capacity very soon,” spokesperson Tom McMillan told Global News in an email.  
 
-Also, note that the testing numbers on Alberta Health which were previously reported as 'Negative tests' are now 'Total People Tested'. This has been accounted for in my calculations.
+Also, note that the testing numbers on Alberta Health which were previously reported as 'Negative tests' are now 'Total People Tested'. This has been accounted for in my calculations.  
+
+---  
+April 19, 2020  
+In the last week, there are two incomplete days of data (April 15 and 16) due to a fire in the datacentre at AHS. Also note that testing protocols have shifted significantly since the beginning of the pandemic. All numbers and graphs based on testing results, such as number of positive tests are biased. This bias needs to be accounted for. The only true results that are somewhat independent of tests are Hospitalizations, ICU admissions and deaths, although these still suffer from being recorded as 'related to covid-19' which rely on a positive test confirmation. However, the bias here is likely much lower, as the number of people in ICU, for example, that are placed in ICU for respiratory trouble who are not tested for Covid-19 is likely effectively zero. A fuller exploration of this next week.
