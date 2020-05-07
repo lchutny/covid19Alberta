@@ -36,3 +36,7 @@ Also, note that the testing numbers on Alberta Health which were previously repo
 ---  
 April 19, 2020  
 In the last week, there are two incomplete days of data (April 15 and 16) due to a fire in the datacentre at AHS. Also note that testing protocols have shifted significantly since the beginning of the pandemic. All numbers and graphs based on testing results, such as number of positive tests are biased. This bias needs to be accounted for. The only true results that are somewhat independent of tests are Hospitalizations, ICU admissions and deaths, although these still suffer from being recorded as 'related to covid-19' which rely on a positive test confirmation. However, the bias here is likely much lower, as the number of people in ICU, for example, that are placed in ICU for respiratory trouble who are not tested for Covid-19 is likely effectively zero. A fuller exploration of this next week.
+
+---  
+MAY 6, 2020  
+Some restrictions easing in Alberta as at May 1, 2020. Watch the numbers come May 15 to see if they creep back up. Definitely have flattened the curve, raw transmission rate almost at 1.0.
